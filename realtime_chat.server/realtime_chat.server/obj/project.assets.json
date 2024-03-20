@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\realtime_chat.server\\realtime_chat.server\\realtime_chat.server.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\realtime_chat\\realtime_chat.server\\realtime_chat.server\\realtime_chat.server.csproj",
       "projectName": "realtime_chat.server",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\realtime_chat.server\\realtime_chat.server\\realtime_chat.server.csproj",
+      "projectPath": "C:\\Users\\pc\\source\\repos\\realtime_chat\\realtime_chat.server\\realtime_chat.server\\realtime_chat.server.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\realtime_chat.server\\realtime_chat.server\\obj\\",
+      "outputPath": "C:\\Users\\pc\\source\\repos\\realtime_chat\\realtime_chat.server\\realtime_chat.server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
